@@ -1,2 +1,2 @@
 # C-Sharp_SoftUni
-Homework from JavaScript Programming courses in SoftUni (https://softuni.bg/)
+Homework from C# Programming courses in SoftUni (https://softuni.bg/)
