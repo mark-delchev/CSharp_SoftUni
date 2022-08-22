@@ -1,0 +1,15 @@
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/bin/Debug/net6.0/bonus_points
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/bin/Debug/net6.0/bonus_points.deps.json
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/bin/Debug/net6.0/bonus_points.runtimeconfig.json
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/bin/Debug/net6.0/bonus_points.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/bin/Debug/net6.0/ref/bonus_points.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/bin/Debug/net6.0/bonus_points.pdb
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.csproj.AssemblyReference.cache
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.AssemblyInfoInputs.cache
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.AssemblyInfo.cs
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.csproj.CoreCompileInputs.cache
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/ref/bonus_points.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.pdb
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/bonus_points/obj/Debug/net6.0/bonus_points.genruntimeconfig.cache
