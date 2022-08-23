@@ -1,0 +1,15 @@
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.csproj.AssemblyReference.cache
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.AssemblyInfoInputs.cache
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.AssemblyInfo.cs
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.csproj.CoreCompileInputs.cache
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/bin/Debug/net6.0/time+15
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/bin/Debug/net6.0/time+15.deps.json
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/bin/Debug/net6.0/time+15.runtimeconfig.json
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/bin/Debug/net6.0/time+15.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/bin/Debug/net6.0/ref/time+15.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/bin/Debug/net6.0/time+15.pdb
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/ref/time+15.dll
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.pdb
+/home/mark/Documents/C#/Github/CSharp_SoftUni/Programming_Basics/Conditional_Statements_Exercise/time+15/obj/Debug/net6.0/time+15.genruntimeconfig.cache
