@@ -1,0 +1,1 @@
+inititialize command - dotnet new console -o name
