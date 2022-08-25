@@ -5,7 +5,7 @@ namespace Toy
     {
         static void Main()
         {
-            
+            Console.WriteLine("Testing");
         }
     }
 }
